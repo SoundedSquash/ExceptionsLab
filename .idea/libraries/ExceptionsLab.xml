@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ExceptionsLab">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/ExceptionsLab/dist/ExceptionsLab.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
